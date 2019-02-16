@@ -46,6 +46,7 @@ int main() {
         std::cout << ans[2];
         std::cout << ans[3];
         std::cout << ans[4];
+        std::cout << std::endl;
     } else {
         std::cout << ans << std::endl;
     }
